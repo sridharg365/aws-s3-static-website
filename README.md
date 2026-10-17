@@ -16,5 +16,4 @@ A responsive static website hosted on Amazon S3, built with HTML and CSS.
 
 - Static website hosting with Amazon S3
 - Public read access using an S3 bucket policy
-- Responsive website design
-- 
+- Responsive website design.
